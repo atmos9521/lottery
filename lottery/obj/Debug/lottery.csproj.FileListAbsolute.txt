@@ -1,0 +1,11 @@
+D:\MyProgram\Git\lottery\lottery\obj\Debug\lottery.csproj.AssemblyReference.cache
+D:\MyProgram\Git\lottery\lottery\obj\Debug\lottery.Form1.resources
+D:\MyProgram\Git\lottery\lottery\obj\Debug\lottery.Properties.Resources.resources
+D:\MyProgram\Git\lottery\lottery\obj\Debug\lottery.csproj.GenerateResource.cache
+D:\MyProgram\Git\lottery\lottery\obj\Debug\lottery.csproj.CoreCompileInputs.cache
+D:\MyProgram\Git\lottery\lottery\bin\Debug\lottery.exe.config
+D:\MyProgram\Git\lottery\lottery\bin\Debug\lottery.exe
+D:\MyProgram\Git\lottery\lottery\bin\Debug\lottery.pdb
+D:\MyProgram\Git\lottery\lottery\obj\Debug\lottery.exe
+D:\MyProgram\Git\lottery\lottery\obj\Debug\lottery.pdb
+D:\MyProgram\Git\lottery\lottery\obj\Debug\lottery.drawPie.resources
